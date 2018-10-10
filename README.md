@@ -1,7 +1,7 @@
 # ImageAddView
 
 图片添加
-![20181010174155.gif](https://upload-images.jianshu.io/upload_images/3950001-c8f3a487173f05bf.gif?imageMogr2/auto-orient/strip)
+![20181010174155.gif](https://github.com/wangHwYD/ImageAddView/blob/master/20181010174155.gif)
 
 
 
