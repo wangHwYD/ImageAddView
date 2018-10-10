@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <whw.zjms.com.imageaddview.view.AddPhotoView
+        android:id="@+id/iv_add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        app:add_photo_add_icon="@mipmap/image_add"
+        app:add_photo_delete_icon="@mipmap/ic_photo_delete"
+        app:add_photo_edit_mode="true"
+        app:add_photo_horizontal_count="4"
+        app:add_photo_max_count="8"/>
+
+</android.support.constraint.ConstraintLayout>

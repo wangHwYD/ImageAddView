@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageAddView</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="error_gif">error</string>
+</resources>
