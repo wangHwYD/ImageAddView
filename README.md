@@ -1,7 +1,7 @@
 # ImageAddView
 
 图片添加
-![20181010174155.gif](https://github.com/wangHwYD/ImageAddView/blob/master/20181010174155.gif)
+![20181010174155.gif](https://github.com/wangHwYD/ImageAddView/blob/master/20181010175.gif)
 
 
 
